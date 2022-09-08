@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Programmers:	Skyllar Estill, Molly Iverson                                  *
+ *                           *
  * Class: CptS 122; Lab Section 10                                             *
  * Programming Assignment: 9	                                               *
  * Date: 4/26/2022                                                             *
